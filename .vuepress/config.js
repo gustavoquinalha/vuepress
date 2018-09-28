@@ -1,4 +1,6 @@
 module.exports = {
+    dest: './docs',
+    base: '/vuepress/',
     title: 'Vuepress Blog',
     themeConfig: {
         nav: [

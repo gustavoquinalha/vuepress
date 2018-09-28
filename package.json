@@ -1,0 +1,26 @@
+{
+  "name": "vuepress",
+  "version": "1.0.0",
+  "description": "---\r title: Getting Started\r ---",
+  "main": "index.js",
+  "scripts": {
+		"start": "vuepress dev",
+		"build": "vuepress build"
+	},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavoquinalha/vuepress.git"
+  },
+  "author": "gusquinalha@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavoquinalha/vuepress/issues"
+  },
+  "homepage": "https://github.com/gustavoquinalha/vuepress#readme",
+  "keywords": [
+    "Vue",
+    "VuePress",
+    "Github",
+    "Pages"
+  ]
+}
